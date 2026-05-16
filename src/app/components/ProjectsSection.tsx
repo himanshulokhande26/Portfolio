@@ -27,7 +27,7 @@ const PROJECTS: Project[] = [
   description:
   'A pixel-perfect design sync tool that bridges the gap between design and development, enabling seamless collaboration and real-time visual consistency.',
   tech: ['React', 'Node.js', 'CSS'],
-  image: "/assets/images/no_image.png",
+  image: "/Pixelsync_thumbnail.png",
   imageAlt:
   'PixelSync interface showing design synchronization dashboard with pixel-perfect layout tools and collaboration features',
   liveUrl: 'https://pixel-sync-mu.vercel.app/',
