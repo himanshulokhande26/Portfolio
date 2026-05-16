@@ -89,13 +89,13 @@ function ProjectCard({ project }: {project: Project;}) {
   return (
     <article className="nb-card overflow-hidden flex flex-col sm:flex-row h-full">
       {/* Image */}
-      <div className="overflow-hidden sm:w-2/5 flex-shrink-0 bg-muted flex items-center justify-center">
+      <div className="overflow-hidden sm:w-2/5 flex-shrink-0 sm:h-auto h-56">
         <AppImage
           src={project.image}
           alt={project.imageAlt}
           width={400}
           height={300}
-          className="w-full object-contain border-b-2 sm:border-b-0 border-border sm:h-full sm:border-r-2 h-52" />
+          className="w-full h-full object-cover border-b-2 sm:border-b-0 border-border sm:border-r-2" />
       </div>
 
       {/* Content */}
