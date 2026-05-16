@@ -149,7 +149,7 @@ export default function HeroSection() {
             {/* Profile image */}
             <div className="relative rotate-neg2 nb-border-4 overflow-hidden profile-card-hover w-full h-full">
               <AppImage
-                src="https://himanshulokhande.in/Himanshu_profile.jpg"
+                src="/Himanshu_profile.jpg"
                 alt="Himanshu Lokhande, Computer Science student and Full Stack Developer, smiling portrait"
                 fill
                 className="object-cover"

@@ -27,7 +27,7 @@ const PROJECTS: Project[] = [
   description:
   'A pixel-perfect design sync tool that bridges the gap between design and development, enabling seamless collaboration and real-time visual consistency.',
   tech: ['React', 'Node.js', 'CSS'],
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1d59d4482-1768035965884.png",
+  image: "/assets/images/no_image.png",
   imageAlt:
   'PixelSync interface showing design synchronization dashboard with pixel-perfect layout tools and collaboration features',
   liveUrl: 'https://pixel-sync-mu.vercel.app/',
@@ -42,7 +42,7 @@ const PROJECTS: Project[] = [
   description:
   'AI-powered web app using Google Gemini API to classify waste (recyclable, compostable) and suggest eco-friendly disposal methods.',
   tech: ['Flask', 'Gemini API', 'HTML/CSS'],
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_19a85136c-1770277529182.png",
+  image: "/assets/images/Ecoscan.png",
   imageAlt:
   'EcoScan app interface showing waste classification results on a green-themed dashboard, dark background with vibrant data cards',
   liveUrl: 'https://eco-scan-himanshu-hackday.vercel.app/',
@@ -57,7 +57,7 @@ const PROJECTS: Project[] = [
   description:
   'Web platform to generate 2D/3D models of ancient Indian astronomical instruments using real coordinates.',
   tech: ['Three.js', 'React.js', 'Node.js'],
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1a929897e-1769683160389.png",
+  image: "/assets/images/Astroyantra.png",
   imageAlt:
   'AstroYantra platform displaying a 3D model of an ancient Indian astronomical instrument on a dark starfield background',
   liveUrl: 'https://astroyantra.netlify.app/',
@@ -72,7 +72,7 @@ const PROJECTS: Project[] = [
   description:
   'MERN app for attendance via QR codes and NEP-aligned schedule suggestions. Reduced manual attendance time by 90%.',
   tech: ['MongoDB', 'Express', 'React', 'Node'],
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_19b0fb763-1764671789668.png",
+  image: "/assets/images/Attendence.png",
   imageAlt:
   'Smart Curriculum App dashboard showing attendance QR code scanner and schedule management interface on light background',
   liveUrl: 'https://smart-curriculum-attendance-hub.netlify.app/',
