@@ -42,7 +42,7 @@ const PROJECTS: Project[] = [
   description:
   'AI-powered web app using Google Gemini API to classify waste (recyclable, compostable) and suggest eco-friendly disposal methods.',
   tech: ['Flask', 'Gemini API', 'HTML/CSS'],
-  image: "/assets/images/Ecoscan.png",
+  image: "/ECOSCAN.png",
   imageAlt:
   'EcoScan app interface showing waste classification results on a green-themed dashboard, dark background with vibrant data cards',
   liveUrl: 'https://eco-scan-himanshu-hackday.vercel.app/',
@@ -57,7 +57,7 @@ const PROJECTS: Project[] = [
   description:
   'Web platform to generate 2D/3D models of ancient Indian astronomical instruments using real coordinates.',
   tech: ['Three.js', 'React.js', 'Node.js'],
-  image: "/assets/images/Astroyantra.png",
+  image: "/ASTRO.png",
   imageAlt:
   'AstroYantra platform displaying a 3D model of an ancient Indian astronomical instrument on a dark starfield background',
   liveUrl: 'https://astroyantra.netlify.app/',
@@ -72,7 +72,7 @@ const PROJECTS: Project[] = [
   description:
   'MERN app for attendance via QR codes and NEP-aligned schedule suggestions. Reduced manual attendance time by 90%.',
   tech: ['MongoDB', 'Express', 'React', 'Node'],
-  image: "/assets/images/Attendence.png",
+  image: "/STUDENT.png",
   imageAlt:
   'Smart Curriculum App dashboard showing attendance QR code scanner and schedule management interface on light background',
   liveUrl: 'https://smart-curriculum-attendance-hub.netlify.app/',
